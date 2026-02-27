@@ -1,0 +1,5 @@
+JEIEvents.hideItems((e) => {
+  e.hide(global.removedItems);
+  e.hide(global.hiddenItems);
+  e.hide(global.removedAE2Items);
+});
