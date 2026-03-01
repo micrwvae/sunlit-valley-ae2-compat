@@ -7,7 +7,6 @@ global.removedAE2Items = [
   "#ae2:smart_cable",
   "#ae2:smart_dense_cable",
   "#ae2:illuminated_panel",
-
   "ae2:nether_quartz_axe",
   "ae2:certus_quartz_axe",
   "ae2:fluix_axe",
@@ -217,6 +216,9 @@ global.removedAE2Items = [
   "ae2wtlib:wireless_pattern_encoding_terminal",
   "ae2wtlib:wireless_pattern_access_terminal",
   "ae2wtlib:wireless_universal_terminal",
-  "ae2wtlib:quantum_bridge_card"
+  "ae2wtlib:quantum_bridge_card",
 
+  "ae2things:disk_drive_1k",
+  "ae2things:disk_drive_16k",
+  "ae2things:disk_drive_256k"
 ]
