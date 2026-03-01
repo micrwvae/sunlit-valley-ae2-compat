@@ -5,6 +5,7 @@ ServerEvents.recipes((e) => {
   e.remove({ mod: "ae2insertexportcard" });
   e.remove({ mod: "ae2wtlib" });
   e.remove({ mod: "aeinfinitybooster" });
+  e.remove({ mod: "ae2things" });
 
 /* Missing recipes
  * - ae2insertexportcard:insert_card
