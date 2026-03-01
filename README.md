@@ -11,6 +11,5 @@ mods u have to manually add:
 - https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge
 
 missing items: 
-- storage monitor
 - colored cables
 - conversion monitor & storage monitor
