@@ -56,13 +56,13 @@
     "spawnFlawlessOnly": false
   },
   "wireless": {
-    "wirelessBaseCost": 0,
-    "wirelessCostMultiplier": 0,
-    "wirelessBaseRange": 16,
+    "wirelessBaseCost": 0.01,
+    "wirelessCostMultiplier": 0.01,
+    "wirelessBaseRange": 16.0,
     "wirelessBoosterRangeMultiplier": 1.0,
     "wirelessBoosterExp": 1.5,
     "wirelessHighWirelessCount": 64.0,
-    "wirelessTerminalDrainMultiplier": 0
+    "wirelessTerminalDrainMultiplier": 0.1
   },
   "PortableCells": {
     "allowDisassembly_comment": "Allow disassembly of portable cells into the recipe ingredients using shift+right-click",
