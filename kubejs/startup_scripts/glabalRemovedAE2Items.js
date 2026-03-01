@@ -106,7 +106,7 @@ global.removedAE2Items = [
   "ae2:spatial_component_2",
   "ae2:spatial_component_16",
   "ae2:spatial_component_128",
-  "ae2:item_cell_housing",
+  // "ae2:item_cell_housing",
   "ae2:fluid_cell_housing",
   "ae2:wireless_receiver",
   "ae2:formation_core",
