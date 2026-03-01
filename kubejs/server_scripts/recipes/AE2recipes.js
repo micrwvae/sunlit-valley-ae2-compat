@@ -148,6 +148,16 @@ ServerEvents.recipes((e) => {
   e.shapeless(Item.of("ae2:export_bus"),
     [ "ae2:fluix_covered_cable", "pipez:item_pipe", "society:battery"]
   ),
+  e.shaped(Item.of("ae2:item_cell_housing"),
+    [ "ABA",
+      "B B",
+      "CCC"
+    ],
+    { A: "minecraft:glass",
+      B: "minecraft:redstone",
+      C: "etcetera:bismuth_ingot"
+    }
+  ),
   e.shapeless(Item.of("ae2:item_storage_cell_4k"),
     ["ae2:item_cell_housing", "ae2:cell_component_4k"]
   ),
