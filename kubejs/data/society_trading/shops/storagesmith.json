@@ -17,21 +17,10 @@
       "numismatics_cost": 8192,
       "trade_id": "storagesmith_ae2_energycell_for_sun"
     },
+
     {
       "offer": {
-        "item": "ae2:item_storage_cell_1k",
-        "count": 1
-      },
-      "request": {
-        "item": "numismatics:crown",
-        "count": 2
-      },
-      "numismatics_cost": 1024,
-      "trade_id": "storagesmith_1k_cell_for_crown"
-    },
-    {
-      "offer": {
-        "item": "ae2:item_storage_cell_4k",
+        "item": "ae2things:disk_drive_4k",
         "count": 1
       },
       "request": {
@@ -39,23 +28,11 @@
         "count": 1
       },
       "numismatics_cost": 4096,
-      "trade_id": "storagesmith_4k_cell_for_sun"
-    },
-        {
-      "offer": {
-        "item": "ae2:item_storage_cell_16k",
-        "count": 1
-      },
-      "request": {
-        "item": "numismatics:sun",
-        "count": 4
-      },
-      "numismatics_cost": 16384,
-      "trade_id": "storagesmith_16k_cell_for_sun"
+      "trade_id": "storagesmith_4k_ae2_disk_for_sun"
     },
     {
       "offer": {
-        "item": "ae2:item_storage_cell_64k",
+        "item": "ae2things:disk_drive_64k",
         "count": 1
       },
       "request": {
@@ -63,19 +40,7 @@
         "count": 16
       },
       "numismatics_cost": 65536,
-      "trade_id": "storagesmith_64k_cell_for_sun"
-    },
-        {
-      "offer": {
-        "item": "ae2:item_storage_cell_256k",
-        "count": 1
-      },
-      "request": {
-        "item": "numismatics:sun",
-        "count": 64
-      },
-      "numismatics_cost": 262144,
-      "trade_id": "storagesmith_256k_cell_for_sun"
+      "trade_id": "storagesmith_64k_ae2_disk_for_sun"
     },
     {
       "offer": {
