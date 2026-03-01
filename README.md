@@ -5,6 +5,7 @@ Modpack:
 https://www.curseforge.com/minecraft/modpacks/society-sunlit-valley
 
 mods u have to manually add:
-https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster
-https://www.curseforge.com/minecraft/mc-mods/ae2wtlib
-https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+- https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster
+- https://www.curseforge.com/minecraft/mc-mods/ae2wtlib
+- https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+- https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge
