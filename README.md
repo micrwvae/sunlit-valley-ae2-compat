@@ -9,3 +9,8 @@ mods u have to manually add:
 - https://www.curseforge.com/minecraft/mc-mods/ae2wtlib
 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 - https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge
+
+missing items: 
+- storage monitor
+- colored cables
+- conversion monitor & storage monitor
