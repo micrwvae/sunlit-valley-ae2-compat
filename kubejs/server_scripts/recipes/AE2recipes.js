@@ -148,20 +148,17 @@ ServerEvents.recipes((e) => {
   e.shapeless(Item.of("ae2:export_bus"),
     [ "ae2:fluix_covered_cable", "pipez:item_pipe", "society:battery"]
   ),
-  e.shapeless(Item.of("ae2:item_storage_cell_1k"),
-    ["ae2:item_cell_housing", "ae2:cell_component_1k"]
-  ),
   e.shapeless(Item.of("ae2:item_storage_cell_4k"),
     ["ae2:item_cell_housing", "ae2:cell_component_4k"]
-  ),
-  e.shapeless(Item.of("ae2:item_storage_cell_16k"),
-    ["ae2:item_cell_housing", "ae2:cell_component_16k"]
   ),
   e.shapeless(Item.of("ae2:item_storage_cell_64k"),
     ["ae2:item_cell_housing", "ae2:cell_component_64k"]
   ),
-  e.shapeless(Item.of("ae2:item_storage_cell_256k"),
-    ["ae2:item_cell_housing", "ae2:cell_component_256k"]
+  e.shapeless(Item.of("ae2things:disk_drive_4k"),
+    ["ae2things:disk_housing", "ae2:cell_component_4k"]
+  ),
+  e.shapeless(Item.of("ae2things:disk_drive_64k"),
+    ["ae2things:disk_housing", "ae2:cell_component_64k"]
   ),
   e.shaped(Item.of("ae2:cell_workbench"),
     [ "ABA",
