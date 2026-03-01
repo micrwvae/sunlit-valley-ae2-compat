@@ -1,4 +1,8 @@
 global.removedAE2Items = [
+  "ae2:item_storage_cell_1k",
+  "ae2:item_storage_cell_16k",
+  "ae2:item_storage_cell_256k",
+  
   "#ae2:paint_balls",
   "#ae2:all_certus_quartz",
   "#ae2:inscriber_presses",
